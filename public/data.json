@@ -1,0 +1,138 @@
+
+[
+  {
+    "id": 1,
+    "industry": "agriculture and food",
+    "category": ["data intelligence"],
+    "company": "Indigo AG",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 2,
+    "industry": "banking, finance & insurance",
+    "category": ["branding", "technology"],
+    "company": "Kempen",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 3,
+    "industry": "public service & non-profit",
+    "category": ["advertising", "branding"],
+    "company" : "Gemeentemuseum",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 4,
+    "industry": "fashion & lifestyle",
+    "category": ["advertising"],
+    "company": "Boi.com",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 5,
+    "industry": "manufactureing & industrials",
+    "category": ["design", "technology", "digital marketing"],
+    "company": "Florensis",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 6,
+    "industry": "energy & utilities",
+    "category": ["technology", "strategy", "design"],
+    "company": "Ge lighting",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 7,
+    "industry": "travel, leisure & hospitality",
+    "category": ["advertising", "branding"],
+    "company": "Tui",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 8,
+    "industry": "travel, leisure & hospitality",
+    "category": ["technology", "branding"],
+    "company": "Butlin's",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 9,
+    "industry": "travel, leisure & hospitality",
+    "category": ["media", "digital marketing", "data intelligence"],
+    "company": "Vacancesselect",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 10,
+    "industry": "manufactureing & industrials",
+    "category": ["technology"],
+    "company": "Florensis",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 11,
+    "industry": "agriculture & food",
+    "category": ["advertising"],
+    "company": "Chocomel",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 12,
+    "industry": "tech, media & telecommunications",
+    "category": ["design", "advertising", "media", "content"],
+    "company": "JBL",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 13,
+    "industry": "fashion & lifestyle",
+    "category": ["design", "commerce"],
+    "company": "S'Oliver",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 14,
+    "industry": "agriculture & food",
+    "category": ["media", "Digital marketing"],
+    "company": "Arla",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  },
+  {
+    "id": 15,
+    "industry": "fashion & lifestyle",
+    "category": ["design", "commerce"],
+    "company": "Marc'o Polo",
+    "title": "Lorem Ipsum",
+    "content": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "img_url": "https://www.deptagency.com/wp-content/uploads/fly-images/25067/Adama-featured-image2-585x585-c.jpg"
+  }
+]
